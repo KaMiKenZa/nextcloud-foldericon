@@ -41,4 +41,6 @@ Then reload the Nextcloud Files page.
 
 ## License
 
-AGPL-3.0-or-later.
+Copyright (c) 2026 KaMiKenZa.
+
+Licensed under the GNU Affero General Public License v3.0 or later.
