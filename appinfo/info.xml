@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>foldericon</id>
+	<name>Folder Icon</name>
+	<summary>Use a foldericon image inside a folder as that folder's icon in Files.</summary>
+	<description>Shows a custom icon for folders in the Files web UI when the folder contains an image named foldericon.</description>
+	<version>0.1.1</version>
+	<licence>agpl</licence>
+	<author>KaMi local</author>
+	<namespace>FolderIcon</namespace>
+	<category>customization</category>
+	<dependencies>
+		<nextcloud min-version="32" max-version="32" />
+	</dependencies>
+</info>

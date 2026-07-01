@@ -1,0 +1,17 @@
+.foldericon-custom-icon {
+	background-image: var(--foldericon-url) !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	border-radius: 6px !important;
+	mask: none !important;
+	-webkit-mask: none !important;
+}
+
+.foldericon-custom-icon img,
+.foldericon-custom-icon svg,
+.foldericon-custom-icon .material-design-icon,
+.foldericon-custom-icon::before,
+.foldericon-custom-icon::after {
+	opacity: 0 !important;
+}
