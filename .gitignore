@@ -9,3 +9,5 @@ Thumbs.db
 *.zip
 *.tar
 *.tar.gz
+__pycache__/
+*.py[cod]

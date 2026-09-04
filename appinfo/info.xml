@@ -9,12 +9,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 	<name>Folder Icon</name>
 	<summary>Use a foldericon image inside a folder as that folder's icon in Files.</summary>
 	<description>Shows a custom icon for folders in the Files web UI when the folder contains an image named foldericon.</description>
-	<version>0.1.1</version>
+	<version>0.1.2</version>
 	<licence>AGPL-3.0-or-later</licence>
 	<author>KaMiKenZa</author>
 	<namespace>FolderIcon</namespace>
 	<category>customization</category>
 	<dependencies>
-		<nextcloud min-version="32" max-version="32" />
+		<nextcloud min-version="32" max-version="34" />
 	</dependencies>
 </info>
